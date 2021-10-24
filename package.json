@@ -3,7 +3,7 @@
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Alexandre Gressier <alexandre@gressier.dev>",
   "dependencies": {
     "gatsby": "^4.0.0",
     "gatsby-image": "^3.11.0",
