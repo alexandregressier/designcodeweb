@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# Binaries
+.bin/
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+build/
+
+# Log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
