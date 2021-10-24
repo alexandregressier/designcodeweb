@@ -56,3 +56,9 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+a {
+    color: #3913B8;
+    font-weight: 600;
+    text-decoration: none;
+}
