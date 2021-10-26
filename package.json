@@ -5,11 +5,13 @@
   "version": "0.1.0",
   "author": "Alexandre Gressier <alexandre@gressier.dev>",
   "dependencies": {
+    "babel-plugin-styled-components": "^1.13.3",
     "gatsby": "^4.0.0",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-manifest": "^4.0.0",
     "gatsby-plugin-offline": "^5.0.0",
     "gatsby-plugin-react-helmet": "^5.0.0",
+    "gatsby-plugin-styled-components": "^5.0.0",
     "gatsby-source-filesystem": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
