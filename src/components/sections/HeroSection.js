@@ -32,7 +32,7 @@ const TextWrapper = styled.div`
   gap: 30px;
 `
 const Title = styled(H1)`
-  color: ${themes.light.text1};
+  color: ${themes.dark.text1};
 `
 const Description = styled(MediumText)`
   font-size: 17px;

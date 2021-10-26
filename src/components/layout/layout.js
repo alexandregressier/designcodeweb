@@ -1,12 +1,11 @@
 import React from "react"
 import "./layout.css"
+import { GlobalStyle } from "../styles/Global"
 
-function Layout({ children }) {
-  return (
+const Layout = ({children}) =>
     <>
-      <main>{children}</main>
+        <GlobalStyle/>
+        <main>{children}</main>
     </>
-  )
-}
 
 export default Layout
