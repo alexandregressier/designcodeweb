@@ -1,6 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { H1, MediumText } from "../styles/Typography"
+import themes from "../styles/Themes";
 
 const HeroSection = () =>
     <Wrapper>
@@ -31,7 +32,7 @@ const TextWrapper = styled.div`
   gap: 30px;
 `
 const Title = styled(H1)`
-  color: white;
+  color: ${themes.light.text1};
 `
 const Description = styled(MediumText)`
   font-size: 17px;
